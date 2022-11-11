@@ -1,0 +1,36 @@
+
+class IL_QUARTO_CAVALLO {
+    public static void main(String[] args) {
+
+        int A = 0;
+        int B = 0;
+        int C = 0;
+
+        // VALORIZZAZIONI
+
+        A = 3;
+        B = 13;
+        C = 13;
+        
+        // INIZIO DI IF ANNIDATO
+        
+        System.out.println("\nInizio dei controlli");
+        if (A>B) {
+            
+            System.out.println("-> Uscito al primo\n");
+
+        } else if (B<C){
+
+            System.out.println("-> Uscito al secondo\n");
+
+
+        } else if (C!=A){
+
+            System.out.println("-> Arrivato alla fine!\n");
+
+        } //Qui si chiude l'if annidato
+
+        System.out.println();
+    
+    }   //fine di main                                                                                                                                                                     
+}  // fine della classe IL_QUARTO_CAVALLO 
