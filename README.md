@@ -9,3 +9,5 @@ Il codice Java che useremo nel corso.
 11/11/22 10:08    ---->     "IL_CAVALLO" CARICATO - Lorenzo Borgia
 
 11/11/22 16:03    ---->     "IL_QUARTO_CAVALLO" CARICATO - Lorenzo Borgia (DA RIFARE, INCLUSO SALVATAGGIO GIT)
+
+15/11/22  11:22   ---->     "CicliEIteratori" CARICATO - Lorenzo Borgia
